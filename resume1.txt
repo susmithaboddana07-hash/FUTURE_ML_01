@@ -1,0 +1,3 @@
+Name:Alice
+Skills:Python,Machine Learning,Data Science
+Experience:Internship in Ai
