@@ -1,5 +1,0 @@
-Name: John Doe
-Skills: Python, Machine Learning, Data Analysis
-Education: B.Tech Computer Science
-Experience: 1 year internship in Data Science
-Projects: Resume Screening System, Chatbot
